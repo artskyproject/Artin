@@ -1,2 +1,2 @@
 # Artin
-Virtual art training
+Virtual art training Institute
